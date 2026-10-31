@@ -1,4 +1,4 @@
-#!/bin/bash
+
 # Script rápido para asignar la IP estática al servidor Wazuh Manager tras un reinicio
 
 # Asignar la IP a la interfaz eth0
